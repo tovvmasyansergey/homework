@@ -1,0 +1,5 @@
+name surname age profession adress
+James Scotte 25 programmer Armenia
+Anne Scotete 20 singer England
+Jack Hamilton 40 teacher USA
+john jackson 23 writer Germany
